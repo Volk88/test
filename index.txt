@@ -1,3 +1,2 @@
 Start!
-Hello, world!
-Change New!
+Changed!
